@@ -1,4 +1,3 @@
-@@ -0,0 +1,73 @@
 <?
 class Db {
   private $connection;
@@ -72,4 +71,3 @@ class Db {
     $this->connection->close();
   }
 }
-\ No newline at end of file

@@ -1,4 +1,3 @@
-@@ -0,0 +1,42 @@
 <?php
 function hr($return = false){
   if ($return){
@@ -41,4 +40,3 @@ function encryptPassword($password){
   global $config;
   return md5($password . $config['salt']);
 }
-\ No newline at end of file

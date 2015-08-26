@@ -1,5 +1,3 @@
-@@ -0,0 +1,40 @@
-
 <? require_once('main.php')?>
 <html>
 <head>

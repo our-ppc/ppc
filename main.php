@@ -1,4 +1,3 @@
-@@ -0,0 +1,10 @@
 <?
 session_start();
 date_default_timezone_set("Asia/Tehran");
@@ -9,4 +8,3 @@ require_once('db.php');
 
 
 ?>
-\ No newline at end of file

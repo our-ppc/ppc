@@ -1,4 +1,3 @@
-@@ -0,0 +1,38 @@
 <?
 require_once('main.php');
 $db= Db::getInstance();
@@ -37,4 +36,3 @@ $message="You are successfully Registered. Please ".'<a href="login.php">login</
 require_once ("msg-success.php");
 exit;
 ?>
-\ No newline at end of file
