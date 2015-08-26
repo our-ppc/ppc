@@ -22,7 +22,7 @@
 
 <div>
   <div class="tac">
-  <img src="image/logo.png"><br><br>
+  <img src="image/logo-129.png"><br><br>
     <form action="login-check.php" method="post">
  <input  type="text" placeholder="Email" name="email">
       <br>
