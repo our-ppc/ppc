@@ -35,4 +35,3 @@ $db->insert("INSERT INTO x_user (email,fullname,password,registerTime,lastVisitT
 $message="You are successfully Registered. Please ".'<a href="login.php">login</a>';
 require_once ("msg-success.php");
 exit;
-?>

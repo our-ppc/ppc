@@ -23,9 +23,9 @@
 
   <div id="top-right-menu">
 
-    <span class="active-btn"> »бнџ ѕедѕР«д</span>
-    <span class="deactinve-btn">дг«н‘ ѕедѕР«д</span>
-     <span class="deactinve-btn">Ќ”«»</span>
+    <span class="active-btn">пњљпњљпњљпњљпњљ пњљпњљпњљѕРпњљпњљ</span>
+    <span class="deactinve-btn">пњљпњљпњљпњљпњљ пњљпњљпњљѕРпњљпњљ</span>
+     <span class="deactinve-btn">пњљпњљпњљпњљ</span>
  
  </div>
  
@@ -36,7 +36,7 @@
  
  
    <div>
-     <span><?=$_SESSION['email']?>ќж‘ ¬гѕнѕ</span>
+     <span><?=$_SESSION['email']?>пњљпњљпњљ пњљпњљпњљпњљпњљ</span>
    </div>
  
  
@@ -52,9 +52,9 @@
  <ul class="side-right-menu-ul">
  
  
-   <li>ѕ«‘»ж—ѕ</li>
-   <li> »бнџ е«н гд</li>
-   <li>—«едг«</li>
+   <li>пњљпњљпњљпњљпњљпњљпњљ</li>
+   <li>пњљпњљпњљпњљпњљ пњљпњљпњљ пњљпњљ</li>
+   <li>пњљпњљпњљпњљпњљпњљ</li>
  
  </ul>
  
@@ -64,9 +64,9 @@
  
        <ul class="side-right-menu-ul">
  
-         <li >гЏ—Ён</li>
-         <li> «“ Шћ« ‘—жЏ Шдг њ</li>
-         <li> Џ—Ёе е«</li>
+         <li >пњљпњљпњљпњљпњљ</li>
+         <li> пњљпњљ пњљпњљпњљ пњљпњљпњљпњљ пњљпњљпњљ пњљ</li>
+         <li>пњљпњљпњљпњљпњљ пњљпњљ</li>
  
        </ul>
      </div>
@@ -83,11 +83,11 @@
  
  <div id="way" >
    <div style="margin: 15px">
-   <span>?. ж—жѕ «Ўб«Џ«  Шбн</span>
-   <span>	?. «д ќ«» джЏ  »бнџ</span>
-   <span>	?. гЌ ж«н  »бнџ</span>
-   <span>?. еѕЁгдѕ”«“н</span>
-   <span>?.  √ннѕ</span>
+   <span>?. пњљпњљпњљпњљ пњљпњљпњљпњљпњљпњљпњљ пњљпњљпњљ</span>
+   <span>	?. пњљпњљпњљпњљпњљпњљ пњљпњљпњљ пњљпњљпњљпњљпњљ</span>
+   <span>	?. пњљпњљпњљпњљпњљпњљ пњљпњљпњљпњљпњљ</span>
+   <span>?. пњљпњљпњљпњљпњљпњљпњљпњљпњљпњљ</span>
+   <span>?. пњљпњљпњљпњљпњљ</span>
  
  </div>
  </div>
@@ -95,7 +95,7 @@
  
  
  <div class="form" style="direction: rtl">
-   <span>д«г  »бнџ</span> <br><br>
+   <span>пњљпњљпњљ пњљпњљпњљпњљпњљ</span> <br><br>
  <div class="input-list style-1 clearfix" style="float: right">
    <input type="text" >
  </div>
@@ -104,9 +104,9 @@
    <br>
  <br><br>
    <br><br>
-   <span> «—нќ ‘—жЏ</span> <br><br>
+   <span>пњљпњљпњљпњљпњљ пњљпњљпњљпњљ</span> <br><br>
    <select class="date date_day" id="id_0-start_date_day" name="0-start_date_day">
-     <option value="0">Ч</option>
+     <option value="0">пњљ</option>
      <option value="1">?</option>
      <option value="2">?</option>
      <option value="3">?</option>
@@ -141,23 +141,23 @@
    </select>
  
    <select class="date date_month" id="id_0-start_date_month" name="0-start_date_month">
-     <option value="0">Ч</option>
-     <option value="1">Ё—ж—ѕнд</option>
-     <option value="2">«—ѕн»е‘ </option>
-     <option value="3">ќ—ѕ«ѕ</option>
-     <option value="4"> н—</option>
-     <option value="5" selected="selected">г—ѕ«ѕ</option>
-     <option value="6">‘е—нж—</option>
-     <option value="7">ге—</option>
-     <option value="8">¬»«д</option>
-     <option value="9">¬–—</option>
-     <option value="10">ѕн</option>
-     <option value="11">»егд</option>
-     <option value="12">«”Ёдѕ</option>
+     <option value="0">пњљ</option>
+     <option value="1">пњљпњљпњљпњљпњљпњљпњљ</option>
+     <option value="2">пњљпњљпњљпњљпњљпњљпњљпњљ</option>
+     <option value="3">пњљпњљпњљпњљпњљ</option>
+     <option value="4">пњљпњљпњљ</option>
+     <option value="5" selected="selected">пњљпњљпњљпњљпњљ</option>
+     <option value="6">пњљпњљпњљпњљпњљпњљ</option>
+     <option value="7">пњљпњљпњљ</option>
+     <option value="8">пњљпњљпњљпњљ</option>
+     <option value="9">пњљпњљпњљ</option>
+     <option value="10">пњљпњљ</option>
+     <option value="11">пњљпњљпњљпњљ</option>
+     <option value="12">пњљпњљпњљпњљпњљ</option>
    </select>
  
    <select class="date date_year" id="id_0-start_date_year" name="0-start_date_year">
-     <option value="0">Ч</option>
+     <option value="0">пњљ</option>
      <option value="1394" selected="selected">????</option>
      <option value="1395">????</option>
      <option value="1396">????</option>
@@ -173,9 +173,9 @@
    <br><br><br>
  
    <div class="field-vertical-divider"></div>
-   <span> «—нќ «дё÷«</span> <br><br>
+   <span>пњљпњљпњљпњљпњљ пњљпњљпњљпњљпњљ</span> <br><br>
    <select class="date date_day" id="id_0-expiration_date_day" name="0-expiration_date_day">
-         <option value="0" selected="selected">Ч</option>
+         <option value="0" selected="selected">пњљ</option>
          <option value="1">?</option>
          <option value="2">?</option>
          <option value="3">?</option>
@@ -212,23 +212,23 @@
  
  
        <select class="date date_month" id="id_0-expiration_date_month" name="0-expiration_date_month">
-         <option value="0" selected="selected">Ч</option>
-         <option value="1">Ё—ж—ѕнд</option>
-         <option value="2">«—ѕн»е‘ </option>
-         <option value="3">ќ—ѕ«ѕ</option>
-         <option value="4"> н—</option>
-         <option value="5">г—ѕ«ѕ</option>
-         <option value="6">‘е—нж—</option>
-         <option value="7">ге—</option>
-         <option value="8">¬»«д</option>
-         <option value="9">¬–—</option>
-         <option value="10">ѕн</option>
-         <option value="11">»егд</option>
-         <option value="12">«”Ёдѕ</option>
+         <option value="0" selected="selected">пњљ</option>
+         <option value="1">пњљпњљпњљпњљпњљпњљпњљ</option>
+         <option value="2">пњљпњљпњљпњљпњљпњљпњљпњљ</option>
+         <option value="3">пњљпњљпњљпњљпњљ</option>
+         <option value="4">пњљпњљпњљ</option>
+         <option value="5">пњљпњљпњљпњљпњљ</option>
+         <option value="6">пњљпњљпњљпњљпњљпњљ</option>
+         <option value="7">пњљпњљпњљ</option>
+         <option value="8">пњљпњљпњљпњљ</option>
+         <option value="9">пњљпњљпњљ</option>
+         <option value="10">пњљпњљ</option>
+         <option value="11">пњљпњљпњљпњљ</option>
+         <option value="12">пњљпњљпњљпњљпњљ</option>
        </select>
  
        <select class="date date_year" id="id_0-expiration_date_year" name="0-expiration_date_year">
-         <option value="0" selected="selected">Ч</option>
+         <option value="0" selected="selected">пњљ</option>
          <option value="1394">????</option>
          <option value="1395">????</option>
          <option value="1396">????</option>
@@ -248,7 +248,7 @@
  
  <br><br><br>
    <div >
-     <span>»жѕће —ж“«де</span> <br><br>
+     <span>пњљпњљпњљпњљпњљ пњљпњљпњљпњљпњљпњљ</span> <br><br>
      <div  >
        <input type="text" >
      </div>
@@ -257,7 +257,7 @@
  
      <br><br><br>
      <div >
-       <span>»жѕће Шб</span> <br><br>
+       <span>пњљпњљпњљпњљпњљ пњљпњљ</span> <br><br>
        <div >
  
            <input type="text">
@@ -267,7 +267,7 @@
  
        <br><br><br>
       <div >
-        <span>Ќѕ«ШЋ— е“нде н е— ШбнШ</span> <br><br>
+        <span>пњљпњљ«Шпњљпњљ пњљпњљпњљпњљпњљ пњљ пњљпњљ пњљпњљпњљ</span> <br><br>
         <div >
           <input type="text" >
         </div>

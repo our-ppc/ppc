@@ -24,7 +24,7 @@ else
   {
     $_SESSION['email']=$record['email'];
     $_SESSION['user_id']=$record['user_id'];
-$message="Congratulation,You are welcome";
+$message="Congratulation,You are welcome".'<a href="home.php"> Visit Homepage</a> OR <a href="logout.php">Logout</a>';
     require_once("msg-success.php");
     exit;
   }
