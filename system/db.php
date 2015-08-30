@@ -43,13 +43,31 @@ class Db {
     return $records[0];
   }
 
+  public function modify($sql){
+    $result = $this->connection->query($sql);
+    if (!$result) {
+      echo "Query: " . $sql . " failed due to " . mysqli_error($this->connection);
+      exit;
+    }
+    return $result;
+  }
+
   public function insert($sql){
-    $id = $this->connection->query($sql);
-    return $id;
+    $result = $this->connection->query($sql);
+    if (!$result) {
+      echo "Query: " . $sql . " failed due to " . mysqli_error($this->connection);
+      exit;
+    }
+    return $result;
   }
 
   public function query($sql){
     $result = $this->connection->query($sql);
+    if (!$result) {
+      echo "Query: " . $sql . " failed due to " . mysqli_error($this->connection);
+      exit;
+    }
+
     $records = array();
 
     if ($result->num_rows == 0) {
